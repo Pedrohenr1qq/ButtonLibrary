@@ -1,0 +1,8 @@
+ButtonLibrary	KEYWORD1
+Button	KEYWORD1
+GetStateButton	KEYWORD2
+SetDebounceTime	KEYWORD2
+SetPressedTime	KEYWORD2
+WaitForClicked	KEYWORD2
+WaitForReleased	KEYWORD2
+WaitForResponse	KEYWORD2
